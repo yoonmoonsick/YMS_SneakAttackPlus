@@ -1,0 +1,5 @@
+new entry "SneakAttack_Unlock"
+type "PassiveData"
+data "DisplayName" "hc4558204g2c77g4b58gafb6g0ba6b3995c49;1"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_SneakAttack);UnlockInterrupt(Interrupt_SneakAttack_Critical);UnlockInterrupt(Interrupt_SneakAttack_Penalty);UnlockInterrupt(Interrupt_SneakAttack_Penalty_Critical)"
