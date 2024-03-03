@@ -23,7 +23,7 @@ data "Conditions" "Self(context.Source,context.Observer) and HasDamageEffectFlag
 
 new entry "Interrupt_SneakAttack_Penalty"
 type "InterruptData"
-data "DisplayName" "h1b0253b7e8db4ac1834bfdaff5d0d49c947a;1"
+data "DisplayName" "h6bd2fa533b4f4d12a87024fb32a916caeg9f;1"
 data "Description" "h23701712ge994g40bfga729g36dc38dc7c65;2"
 data "ExtraDescription" "h76d95144gbf2eg4c33gae0bg9661d52519e1;1"
 data "Icon" "Action_SneakAttack_Melee"
