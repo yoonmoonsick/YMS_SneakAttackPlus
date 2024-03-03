@@ -3,4 +3,6 @@
     <content contentuid="hf58724fcc9d7429594b4c1f67d9a0356f0f5" version="1">Sneak Attack Fatigue</content>
     <content contentuid="h3a57c7661af6402788887b70e29b45e85ef0" version="1">Sneak attack damage is reduced by dividing by half. The condition will be removed in the next turn.</content>
     <content contentuid="h1b0253b7e8db4ac1834bfdaff5d0d49c947a" version="1">Sneak Attack (Fatigue)</content>
+    <content contentuid="h6bd2fa533b4f4d12a87024fb32a916caeg9f" version="1">Sneak Attack (Fatigue, Critical)</content>
+
 </contentList>
