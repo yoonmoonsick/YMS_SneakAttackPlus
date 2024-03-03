@@ -3,8 +3,7 @@
 ## Sneak Attack
 
 - Now, Rogues can perform Sneak Attacks more than once per turn. Additionally, Sneak Attacks trigger with spells as well.
-- Upon reaching Rogue Level 5, additional 1 Sneak Attack resource is granted.
-- Upon reaching Rogue Level 11, additional 1 Sneak Attack resource is granted.
+- Receive additional Sneak Attacks charge at character levels 4, 7, 10, 13, 17, and 20. 
 
 ## Sneak Attack Fatigue State
 
@@ -14,8 +13,7 @@
 ## 암습
 
 - 이제 로그가 한 턴에 1회 이상 암습 공격을 할 수 있습니다. 또한, 주문에도 암습 공격이 발동됩니다.
-- 로그 레벨 5에 도달하면 추가 암습 공격 자원을 받게 됩니다.
-- 로그 레벨 11에 도달하면 추가 암습 공격 자원을 받게 됩니다.
+- 캐릭터 레벨 4, 7, 10, 13, 17 그리고 20에 도달하면 추가 암습 공격 자원을 받게 됩니다.
 
 ## 암습 피로 상태
 
